@@ -92,7 +92,7 @@ body {
 
 /*------------Мобильная версия-----------*/
 
-@media (max-width: 320px) {
+@media (max-width: 480px) {
   .row2,
   .row3 {
     flex-direction: column;
